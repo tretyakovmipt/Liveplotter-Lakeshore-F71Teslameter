@@ -1,3 +1,5 @@
+(Original code was created by https://github.com/milanliepelt)
+
 Teslameter-live-plot.py uses the Teslameter class from the lakeshore module to collect magnetic field vector components and the magnitude and to plot them in real time.
 
 The script requires installion of the device drivers.
